@@ -1,0 +1,18 @@
+.map-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    margin-top:50px;
+    padding:0,50px;
+  }
+  #mapview{
+    padding: 50px 100px;
+    margin: auto;
+    height: 600px;
+    
+  }
+  h3{
+      text-align: center;
+      font-family: Montserrat;
+  }
