@@ -7,9 +7,10 @@
     padding:0,50px;
   }
   #mapview{
-    padding: 50px 100px;
+    padding: 50px;
     margin: auto;
-    height: 600px;
+    height: 500px;
+  
     
   }
   h3{
